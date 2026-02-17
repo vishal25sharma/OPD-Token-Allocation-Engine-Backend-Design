@@ -209,7 +209,3 @@ Priority queue–based algorithms
 Clean API-driven architecture
 
 Perfect for backend internships, system design evaluations, and hospital workflow simulations.
-
-Write a resume bullet for this project
-
-Simplify it for interview explanation
